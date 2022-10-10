@@ -1,0 +1,97 @@
+body {
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  color: #163152;
+}
+
+h1 {
+  font-size: 44px;
+  line-height: 60px;
+  font-weight: normal;
+  font-style: italic;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 24px;
+  line-height: 34px;
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 20.5px;
+  text-decoration-color: #00C6BD;
+}
+
+h3, .contacts p {
+  font-size: 16px;
+  line-height: 22px;
+}
+
+.news h3 {
+  font-size: 22px;
+}
+
+h4 {
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.news {
+  font-size: 18px;
+  line-height: 26px;
+}
+
+.quote {
+  font-size: 26px;
+  font-weight: bold;
+  line-height: 36px;
+  border-left: 2px solid #00C6BD; /* Параметры линии */
+  margin-left: 0px; /* Отступ слева */ */
+  padding-left: 20px; /* Расстояние от линии до текста */
+}
+
+h5 {
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+a:link, a:visited {
+  color: inherit;
+  text-decoration: none;
+}
+
+.header-nav {
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+.header-nav li {
+  display: inline;
+  margin-right: 30px;
+}
+
+.discription {
+  line-height: 24px;
+}
+
+.date {
+  font-size: 14px;
+  line-height: 18px;
+  text-transform: uppercase;
+}
+
+figcaption {
+  font-size: 16px;
+  line-height: 19px;
+  color: #8693A4;
+}
+
+.list {
+  font-size: 14px;
+}
+.copyright {
+  font-size: 10px;
+  line-height: 12px;
+}
+.social li {
+  margin-bottom: 2px;
+}
